@@ -1,0 +1,1365 @@
+
+6.1 Introduction to Digital Skills
+In this lesson you will learn:
+1. What is digital literacy?
+2. How is digital technology used in everyday life?
+3. The digital skills that are required in the world of work.
+Circle the digital skills you already have:
+Typing on a computer Searching for information online
+Thinking Box
+Downloading an app Sharing photos, videos with others
+Sending messages on a mobile Using email
+Let’s learn about digital literacy
+When we are able to express our thoughts and understand others’ thoughts through any language, it is called literacy. For example, if you can read, write and understand Hindi, you have Hindi literacy. Similarly, if you can use a computer and the internet comfortably, you have digital literacy.
+Today, the internet is helpful to do many things - shopping, searching for information, booking tickets, sending messages, watching videos, etc. Any person who can use the internet on a computer, laptop, tablet or smartphone to do simple tasks is called a digitally literate person.
+We do many activities every day, some require digital literacy, some don’t require digital literacy. Read the following list of activities.
+Do they need digital literacy? If they do, add a in the box below:
+162
+Activity
+Need digital literacy
+Driving a car
+Creating a resume
+Calling customer care
+Cooking paneer butter masala
+Painting a wall
+Let’s learn about how digital technology is used in everyday life
+Tools such as computers, laptops, smartphones and tablets run on digital technology. To use some of these tools, we require special training. But, some digital technologies are easy to use. They are also part of our everyday life.
+We use digital technology to do many things, as shown below:
+1. Talking to a friend using chat
+2. Sending pictures and videos to friends and family
+3. Watching videos for entertainment
+4. Listening to music
+5. Find information on Google
+6. Using calendar and address books
+7. Using calculator
+8. Sending information to a co-worker through email
+Think about all the ways in which you have personally used digital technology. Write 3 things that you have done with digital technology.
+1.
+2.
+3.
+Let’s learn about digital skills that are required in the world of work
+Digital technologies are used in all types of jobs. Digital skills are important for the workplace today. A person with digital skills is able to easily use digital devices and the internet to complete all kinds of tasks at work.
+If you use digital technology regularly in your life, you also already have some of the digital skills you need at work.
+1. Here are some of the important digital skills required for work.
+2. Communicating through emails and chat
+3. Creating and editing documents and worksheets
+4. Using and understanding worksheets
+163
+5. Finding information online
+6. Using online websites and services
+7. Being safe and responsible online
+What is your dream job? What digital skills do you need to be successful at that job?
+Activity Time!
+What I learnt today:
+Put a if you know this topic well.
+1. Digital literacy is the ability to comfortably use different
+digital tools and the internet.
+2. Digital literacy is needed to stay updated in the world
+today. It is helpful to do many tasks quickly.
+3. Some common digital skills needed in everyday life are communication, searching information, using websites and services, and being safe and responsible online.
+164
+6.2 Basics of Computers
+In this lesson you will learn:
+1. How to recognise and understand the parts of a computer.
+2. About the functions of the important parts of a computer.
+There are many parts in a computer or laptop. Note down the parts which you know:
+Thinking Box
+Let’s learn to recognise and understand the parts of a computer
+There are two common types of computers: a desktop and a laptop.
+A desktop
+A desktop is a computer where all the different parts are separately connected to the power and placed together on a desk.
+A laptop
+A laptop is a computer that can easily be carried around and can be used for a brief period of time without being connected to a power source.
+Web camera
+Many of the parts of a desktop and a laptop are the same, although they might look different.
+Monitor
+Parts of a desktop computer:
+Monitor
+Speakers
+CPU (Central Processing Unit)
+
+Keyboard
+Mouse
+
+CPU (Central Processing Unit)
+Web camera
+
+Speakers
+Keyboard
+Mouse
+165
+Parts of a laptop computer:
+Web camera
+
+Screen or monitor
+
+Keyboard
+
+Trackpad
+Web camera
+Keyboard
+Screen or monitor
+Trackpad
+Name all the parts of the desktop shown below:
+Let’s learn about the functions of the important parts All computers have 3 kinds of parts:
+Input Unit
+Central Processing Unit (CPU)
+Output Unit
+1.
+Input Unit: The input unit of any computer includes all the parts that you can use to tell the computer what to do and give the computer information. They are parts that you can use to send instructions from the outside into the computer.
+
+Keyboard: used to put text into the computer
+Mouse: used to move the arrow/pointer on the computer.
+Microphone: used to send sound into the computer.
+Web Camera: used to send video and pictures to the computer.
+
+Track Pad: The trackpad is found commonly on laptops and does the same thing as a mouse. It is also used to move the arrow/pointer on the computer.
+2. Central Processing Unit: The CPU is the brain of the computer. The CPU understands your instructions correctly and completes the tasks that you ask it to. The CPU is where all the data and information are stored. The CPU for a desktop computer is usually a rectangular box that you use to turn on and off the computer. The CPU for a laptop computer is inside the laptop unit, usually under the keyboard section.
+3. Output Unit: The output unit of any computer includes all the parts through which the computer
+displays and shows things to us.
+Monitor: When you type something on the keyboard, it is shown on the monitor. When you click on
+a video with the mouse, it is displayed on the monitor.
+
+Speakers: The speakers play the sound of any media file that you open on the computer or the sound from online meetings that you’re attending.
+166
+Answer the following questions:
+Activity Time!
+1. What part of the computer is used to type words?
+a. Keyboard b. Monitor
+2. What part of the computer is used to play sound?
+a. Speakers b. Web Camera
+3. What is the brain of the computer?
+a. Printer
+b. CPU (Central Processing Unit)
+What I learnt today:
+Put a if you know this topic well.
+1. There are 2 common types of computers - a desktop
+and a laptop.
+2. The parts of a desktop computer are monitor, keyboard, mouse, CPU (Central Processing Unit), web camera, speakers.
+3. Parts of a laptop computer are screen or monitor,
+keyboard, trackpad and web camera.
+4. The main function of a computer is: Input Unit -> Central
+Processing Unit (CPU) -> Output Unit
+6.3 Exploring a Computer
+In this lesson you will learn:
+1. How to start and shut down a computer.
+2. How to connect different devices to a computer.
+Have you used a computer or laptop before? If yes, then what did you find easy to do?
+Thinking Box
+167
+Let’s learn how to start and shut down a computer
+All of us know that the green traffic light means ‘go’ and that the red traffic light means ‘stop’. This stays the same no matter where you go in the world.
+There are some common words and symbols that are the same in all the different types of computers that you might use.
+Power Button: This symbol is the ‘power’ symbol. Any button or key that has this symbol can be used to make any device switch on and off.
+If you look around at different devices, you will find this symbol on many things like remotes, televisions and computer devices.
+While using a desktop computer, the power button is usually on the CPU. While using a laptop computer, the power button is usually placed on the keyboard. Pressing the button will turn the computer on.
+Green Light: In some computers, there is a small green light close to the power button. The green light comes on when you switch the computer on. If the light is not on, it means that the computer is switched off.
+‘Shut Down’: The words ‘Shut Down’ are most commonly used to talk about switching off a computer. It’s very important to switch off a computer when it is not being used so that it does not wastefully use electricity or get overheated from running too long.
+The most common way to ‘Shut Down’ is to click on the ‘Menu’ option or ‘Windows’ on your computer and then select ‘Shut Down’.
+Step 1: Click on ‘Menu’ or the Windows symbol at the bottom.
+Step 2: Click on the power button.
+On some computers, you can ‘Shut Down’ simply by clicking the power button again. But be careful to understand if the computer can support that method. Using the wrong method to shut down a computer can damage it.
+Tip: If you are not sure how to start or shut down any computer or device, use Google Search to find out. For example, if you want to know how to turn on a MacBook, use a smartphone or another device, Google ‘how to turn on MacBook.’ You will find the steps in the search result.
+1
+2
+168
+Some Do’s and Don’ts for Starting and Shutting Down a Computer
+1. Check if the power switch that your desktop is connected to is switched on. If it is a laptop,
+check if it has enough battery. If it doesn’t switch on, you might need to connect it to a charger.
+2. Do not turn off the electricity plug switch directly without shutting down your computer first.
+3. Shut down the computer when it is not being used.
+4. Do not move or fiddle with the chords connected to your computer while using it.
+Is it good to keep a computer in on mode all the time? Discuss with your friends (or search on Google) and find out the answer!
+Let’s learn how to connect different devices to a computer
+A computer has different devices that can be connected to it. The devices can be part of either the input unit or the output unit. Most parts of a computer will already be connected and assembled for you to use (for example, the CPU and the monitor). But sometimes you might have to connect some devices to use them (for example, earphones and USB devices).
+There are two ways to connect a device to a computer:
+1. Wireless
+2. Wired or attached
+Wireless Connecting a device wirelessly to a computer usually involves using Bluetooth technology. Look for the Bluetooth symbol on the device or the Bluetooth option in the ‘Settings’ section of the device. Selecting Bluetooth will make it possible for the computer to connect with the devices. Some devices that can be connected to computers via Bluetooth are phone, mouse, keyboard, earphones, speaker and printer.
+Tip: Google is a great way to find out how to connect specific devices to your computer via Bluetooth. Search for ‘How to connect Bluetooth earphones to laptop’ to find the steps in the search result.
+Wired or attached Another way to connect devices to a computer is directly attaching it to the computer using a wire and a port. A port is a slot or the place where another device is connected to the computer.
+While using this method, it is important to connect the correct wire to the correct port. You’ll be able to observe this by simply looking carefully at the port and the wire to make sure that they match.
+You will find that most devices today are available in both wireless and wired versions.
+169
+Answer the following questions:
+Activity Time!
+Q1. Can this device be connected to this port?
+Yes No
+Q2. Can this device be connected to this port?
+Yes No
+Q3. What is this symbol? Mouse
+Power
+What I learnt today:
+Put a if you know this topic well.
+1. The power button can be used to start and shut down
+a computer.
+2. We can connect devices to a computer using wired or
+wireless method.
+3. Wired connection: Attaching a wire to the computer
+port.
+4. Wireless connection: Connect to Bluetooth.
+5. Mouse, keyboard, earphones, speaker and printer can
+be connected using Bluetooth.
+170
+6.4 Exploring Windows Operating System
+In this lesson you will learn:
+1. The key differences between Windows 7 and Windows 8 Operating Systems.
+2. The main features of Windows 10.
+Have you heard the words ‘software’ and ‘Windows’ before? What do you understand by these words?
+Thinking Box
+Let’s learn the key differences between Windows 7 and Windows 8 OS
+An operating system is software that is put in the computer so that you can use it. The Operating System (OS) is like the brain of a computer.
+The most common operating system used is the Windows OS. This is the ‘Windows’ icon:
+Introduction to Windows 7
+If the first screen on the computer looks like this, it means that you are using a computer with Windows 7 OS.
+To open any app to use, you can click on the ‘Windows’ symbol inside the circular button at the bottom of the screen. It will open a box showing you all the functions and programmes installed in the computer. Click on the programme or app that you wish to use.
+171
+Introduction to Windows 8
+If the first screen on the computer looks like this, it means that you are using a computer with Windows 8 OS.
+To open any app, you can click on the Windows symbol inside the square button at the bottom of the screen.
+When you click it, the ‘Start’ screen will open up.
+Here you will find the various applications. Click on the one that you need to use.
+Credit: Wikipedia
+Choose the correct answer:
+Q1. Which OS will display this screen?
+Q2. Which popular operating system has this symbol?
+Apple
+Windows
+Windows 8
+Windows 7
+Let’s learn the main features of Windows 10
+The latest version of the Windows OS is Windows 10. The screen of a computer with Windows 10 will look like this.
+If you click on the Windows symbol at the bottom, it will open a box showing you different options. Here you can search and open any file or app that you want to use.
+172
+The bottom of the screen also has other options which can be used.
+Click on ‘Type here to search’ and type the name of any file or programme. For example, if you want to find a document named ‘2022 Schedule’, you can search for it here. You can also search for apps by typing their names, like ‘Chrome’ or ‘Media Player’.
+Here are some symbols we learned about in Windows OS. Choose the correct names for these symbols from the options given:
+Activity Time!
+Power button • Windows Start button • Search
+What I learnt today:
+Put a if you know this topic well.
+1. The Operating System (OS) is like the brain of a
+computer.
+2. The most common operating system is the Windows OS.
+3. You can identify the OS of a computer based on how the
+opening screen looks.
+173
+6.5 Creating and Saving Files
+In this lesson you will learn:
+1. How to create and save files.
+2. Safe ways to save information on a computer.
+3. How to transfer files from one location/device to another.
+What kinds of files do you know to create on a computer?
+Thinking Box
+Let’s learn how to create and save files
+All of you must have surely seen a file like this. It is mostly used in offices to keep letters, reports, bills, etc. in order.
+On a computer, a file is a document that you can create using any of these applications:
+MS Word
+MS Excel
+MS PowerPoint
+1. Step 1: Click on the Windows button on the
+screen.
+2. Step 2: Find the Microsoft Office option.
+3. Step 3: Click on the file that you want to
+create. You can choose Microsoft Office Word or Microsoft Office Excel or Microsoft Office Powerpoint.
+4. Step 4: Double click on the ‘Blank Document’
+option on the screen.
+174
+Saving files
+A file must be saved so that you can find it and use it again. If a file is not saved, you can lose the information on it. Please remember to ‘name’ your file, so that you can search for it when you need it.
+To save a file, search for this symbol at the top of the screen. This is the ‘Save’ button. You can click on it to save your file.
+Another way to save your file is by pressing the ‘Ctrl’ button and ‘S’ key on your keyboard at the same time.
+2 ways to save a file
+Click on the Save button on the screen
+Press Ctrl and S buttons on the keyboard
+Once you have saved your file, you can prepare a folder, and store your file in it.
+This is what a ‘Folder’ looks like on a computer. You can name it, and store related documents in it. For example: Job Application. In this folder, you can save your resume, covering letter, marksheet, certificates, etc.
+Read Sneha’s thoughts. What does Sneha need to do now?
+I have to write a letter to my team leader.
+I finished writing the letter. I have to save it so that I can find it again.
+Create a file
+Shut down the computer
+Watch a YouTube video
+Save the file and then shut down the computer
+175
+Let’s learn some safe ways to save information on a computer
+We need to make sure that our private information is not misused by others. Therefore we need to take certain precautions.
+1. Set a strong password for your computer, so
+that others cannot see your files.
+2. Always close/lock your computer when you are not using it, even when you are leaving the computer for a few minutes.
+3. Save your files with a clear name. This will help
+you find the files easily.
+What can you use on your computer to keep your files safe?
+a. A strong password b. A lock
+Let’s learn to transfer files from one location/device to another
+Steps to move a file to another folder:
+1. Open the folder which has the file that you want to transfer.
+2. Click on the file to select it.
+3. Cut the file. You can do this by pressing and holding down the
+‘Ctrl’ key on the keyboard, and then press the ‘X’ key.
+Or right-click on the file. Click the ‘Cut’ option.
+4. Open the folder or device connected to your laptop where you want to transfer the file.
+5. Paste the file into this folder. You can do this by pressing and holding down the ‘Ctrl’ key on the keyboard, and then pressing the ‘V’ key.
+Or right-click on the screen. Click on the ‘Paste’ option.
+176
+Choose the correct answer to these questions:
+Activity Time!
+1. Which option shows a computer folder?
+a.
+b.
+2. What can be used to create a computer file?
+a. Ink pen b. MS Word
+3. How can you copy a file on a computer?
+a. Ctrl + C b. Ctrl + V
+What I learnt today:
+Put a if you know this topic well.
+1. A file is a document that you can create using MS Word,
+MS Excel or MS PowerPoint.
+2. A new file can be created by selecting ‘Blank Document’
+from the top right corner of the application.
+3.
+It is important to save any file to keep the information safe and refer to it later.
+4. To Save a file use Ctrl + S.
+5. To Copy a file use Ctrl + C.
+6. To Paste a file use Ctrl + V.
+177
+6.6 Basics of MS Word
+In this lesson you will learn:
+1. The basic features of MS Word.
+2. The steps to create an MS Word file and save it.
+What tasks can you perform on MS Word?
+Thinking Box
+Let’s learn how to create and save files
+Here is an empty sheet of paper. Tick what you can use it for:
+Drawing pictures
+Writing a story
+Making a list
+Writing a letter
+Completing homework
+Creating a resume
+MS Word is like a sheet of paper on a computer. You can use MS Word to do almost everything that you do on a paper.
+1. Use the plain white space on the MS Word
+screen to type your text.
+2. The MS Word sheet will display this symbol
+This is called the text cursor. It allows you to decide where to type on the page. You can use the mouse to move the cursor.
+At the top of the MS Word screen, you will see a band. It is called the ‘Menu Bar’. The menu bar has many features. You can use these options to make your text and page look different and attractive.
+178
+Let’s look at some important features:
+The ‘Home’ tab allows you to change the font, the size of the font and the colour of the font.
+Bold
+Use this option to make the letters in your words thicker. Like this.
+Italics
+Use this option to make the letters in your words slant to one side. Like this.
+Underline
+Use this option to underline your words. Like this.
+You can use these feature to make a list with numbers or bullet points:
+Numbered List
+Use this option to create a list with numbers.
+Bulleted List
+Use this option to create a list with bullet points. You can even choose different types of ‘bullet’ styles.
+We will discuss a few more interesting features of the ‘Home’ tab in the next lesson.
+This is the ‘Page Layout’ tab. The main feature of this
+is to set the type of page you wish to use. If you click
+on ‘Orientation’, you will get an option of Portrait or
+Landscape.
+Portrait means a vertical sheet.
+Landscape means a horizontal sheet.
+Please note: The Portrait format is used for all official documents.
+Let’s learn the steps to create an MS Word file and save it
+Create an MS Word file:
+1. Find the MS Word application on your computer. Click on it.
+179
+2. Select ‘New’ on the left menu.
+3. Double click on ‘Blank Document’.
+4. You can type using the keyboard.
+Save an MS Word file
+1. Click on the Save icon found at the top left of
+the screen. Or press Ctrl and S keys on your keyboard at the same time.
+2. Select the location where you want to save the
+file on your computer.
+3. Type the ‘name’ of your file. Make sure that the
+file name is clear, so it is easy for you to find it.
+4. Click Save.
+Choose the correct answer to these questions:
+Activity Time!
+1. What is this application?
+a. MS Word
+b. Windows
+2. What can you do with MS Word? a. Write a story b. Buy a pencil
+3. What will happen if you click on this button?
+a. The file will disappear. b. The file will be saved.
+180
+What I learnt today:
+Put a if you know this topic well.
+1. MS Word file can be used to write letters, documents,
+notes, etc.
+2. The Home Tab has many options to change the format
+of the file as well as the words on the file.
+3. Save an MS Word file - Ctrl + S.
+4. Making the text bold- Ctrl + B.
+5. Underlining the text - Ctrl + U.
+6. Changing the text to italics - Ctrl + I.
+6.7 Creating Documents on
+MS Word
+In this lesson you will learn:
+1. How to perform basic formatting using MS Word.
+2. How to use MS Word efficiently using keyboard shortcuts.
+3. How to print a document created on MS Word.
+What have you created using MS Word before?
+Thinking Box
+Let’s learn to perform basic formatting using MS Word In MS Word, you can change the text in the document to look different. Using these options can help you to make the document easy to read. This process is called formatting.
+How to format text:
+1. Select the text you want to format.
+To select a single word, double click it.
+181
+To select a few lines of text, click on the left of the first word to be selected. Hold down and drag the cursor till the end of the text.
+2. Select an option to change the font, font size, font color, or make the text bold, italic, or underlined.
+Formatting rules to follow for all your documents:
+1. Use the same font style in the entire document.
+2. Use a font size and font colour that is easy to read. The recommended font size is 12. The
+recommended font colour is black.
+3. Format your paragraphs to be placed on the left side of the page. Use this option from the menu at the
+top of your screen.
+182
+Choose your favourite formatting option to change this text. Draw a circle around your choice.
+What font style would you change this text to?
+What colour would you change this text to?
+Let’s learn to use MS Word efficiently using keyboard shortcuts
+Keyboard shortcuts are key combinations that help you do an action quickly and easily. The action can be done by finding and selecting the option on the menu. But that would take time. So you can use the keyboard shortcuts to complete the action quickly.
+Ctrl + S to Save
+Press and hold the ‘Ctrl’ key and then press ‘S’ key. Use this shortcut to save the file.
+Ctrl + Z to Undo
+Sometimes, we type something, then we change it. After changing, we think that the earlier sentence was better. In such a situation, you can get your original sentence back! That’s the ‘Undo’ shortcut. Press and hold the ‘Ctrl’ key and then press ‘Z’ key. Use this shortcut to undo an action.
+183
+Ctrl + X to Cut
+After we have typed a sentence or a paragraph, we might feel it needs to be somewhere else on the page. In such a case, simply select that part of the text, use the ‘cut’ option to remove it from there. Next, select where you would like that text to be, and ‘Paste’ it there (‘Paste’ option is explained below). Press and hold the ‘Ctrl’ key and then press ‘X’ key. Use this shortcut to cut some text.
+Ctrl + C to Copy
+Sometimes, we would like to repeat a certain sentence. In such a case, you don’t need to type the same thing again! Simply select the text, and ‘copy’ it. Then decide where you would like to place it, and ‘paste’ it there. Press and hold the ‘Ctrl’ key and then press the ‘C’ key. Use this shortcut to copy some text.
+The difference between ‘Cut’ and ‘Copy’: When you cut, you are deleting the text from one place and putting it elsewhere. Whereas, when you copy, the text stays in the original place and in the other place.
+Ctrl + V to Paste
+When you cut or copy some text, you can place it in a different part of the file. You can use the ‘Paste’ option to do that. Press and hold the ‘Ctrl’ key and then press the ‘V’ key. Use this shortcut to paste some text.
+Choose the correct keyboard shortcut for the action.
+1. Copy text
+a. Ctrl + C keys b. Ctrl + X keys
+Let’s learn to print a document created on MS Word
+A document that you created on MS Word can be printed on paper using a printer. The computer you are using must be connected to the printer with a wire or Bluetooth.
+Steps to print a document
+1. Select ‘File’ and then ‘Print’. Or choose the ‘Print’ icon at the
+top left of the MS Word screen.
+184
+2. To preview each page, select the forward and backward arrows at
+the bottom of the page.
+3. Choose the number of copies, and any other options you want.
+4. Click on the Print button.
+5. You can also use Ctrl + P to print.
+Rakesh created a report about a project on MS Word. His manager wants him to complete a few more tasks with the MS Word document. Read her instructions carefully. What does Rakesh have to do?
+Activity Time!
+1.
+The size of the words in the document is too small and difficult to read. Please change it.
+What does Rakesh have to do?
+a. Save the document b. Change the size of the font
+185
+2.
+I need to give the report to a customer. Could you please give me a print out?
+What does Rakesh have to do?
+a. Delete the document
+b. Print the document
+What I learnt today:
+Put a if you know this topic well.
+1. MS Word can be used to write letters, documents,
+notes, etc.
+2. The Home Tab has many options to change the format
+of the file as well as the words on the file.
+3. Save an MS Word file - Ctrl + S.
+4. Making the text bold- Ctrl + B.
+5. Underlining the text - Ctrl + U.
+6. Changing the text to italics - Ctrl + I.
+186
+6.8 Basics of MS Excel
+In this lesson you will learn:
+1. The importance of learning Excel.
+2. How to enter data into an Excel worksheet.
+Have you used MS Excel before? What do you know about it?
+Thinking Box
+Let’s learn the importance of MS Excel
+MS Excel can be used to do many kinds of tasks. It can organize a large amount of data in an easy and understandable way. For example,
+1. The name, address and phone number of 100 people
+2. The tasks completed by a team of assistants in 52 weeks
+3. The salaries, bonus and insurance amount of a company with 200 people
+We can use MS Excel to do different tasks with this large amount of data.
+1. Find information easily
+2. Make complicated calculations with numbers
+3. Show numbers and data through visual charts and graphs
+Most workplaces use MS Excel to store and handle information. The ability to use MS Excel to manage and understand data is a skill that can make you successful in your future workplace.
+Fill in the information of 5 people in your family.
+187
+Let’s learn to enter data into an Excel worksheet An MS Excel file is called a worksheet or a workbook. Each worksheet has 4 important parts where data can be organised and entered.
+4
+2
+3
+1
+1. Sheets
+Each new page in the worksheet is called a sheet. You can find all the sheets at the bottom left of the screen.
+1
+2. Cell
+Look closely at the Excel sheet. As you can see, it is made up of many small rectangular boxes. Each box is called a cell. You can type numbers and letters inside the cell
+2
+3. Rows
+A single line of cells from left to right is called a row. Look at the numbers on the left side of the screen. All the rows in a sheet are numbered as 1, 2, 3, etc.
+4
+4. Columns
+A single line of cells from top to bottom is called a column. Look at the letters on the top of the screen. All the columns in a sheet are named as A, B, C, etc.
+3
+How to enter data in an Excel worksheet:
+1. Select the cell where you want to enter the
+data. You can do this by using the ‘Select Mode’ cursor which looks like this. You can use this cursor to select cells.
+188
+2. Type the data that you want to enter in the cell. You can use
+letters and numbers.
+3. Move to another cell by using the arrow keys on the keyboard.
+Choose the correct answer for the questions:
+Activity Time!
+1. Which icon represents MS Excel?
+a.
+b.
+2. How is data entered in MS Excel?
+a. You must type it in a cell b. You must save the file
+3. What is selected in gray in this picture?
+a. A column b. A date
+What I learnt today:
+Put a if you know this topic well.
+1. MS Excel is a tool to organise a large amount of data in
+an easy and understandable way.
+2. The uses of MS Excel are to find information easily, make
+complicated calculations with numbers, show numbers and data through visual charts and graphs.
+3. An MS Excel file is called a worksheet or a workbook.
+4. Each workbook has sheets, cells, rows and columns
+to fill data.
+5. To enter data, place the cursor near a cell and add
+the data.
+6. You can also use arrow keys to move between cells.
+189
+6.9 Simple Functions on
+MS Excel
+In this lesson you will learn:
+1. How to save and print MS Excel worksheets and workbooks.
+2. How to use functions in MS Excel like add and average to make calculations.
+Circle the words about MS Excel that you know:
+Cell
+Worksheet
+Column
+Data
+Thinking Box
+Row
+Select
+Formula
+Let’s learn to save and print MS Excel worksheets and workbooks
+Save an MS Excel worksheet
+1. Click on the Save icon found at the top left of the screen. Or press Ctrl and S keys on your keyboard at
+the same time.
+2. Select the location where you want to save the worksheet on
+your computer.
+3. Enter a file name for the worksheet.
+4. Click Save.
+190
+Print an MS Excel worksheet
+1. Open the sheet that you want to print.
+2. Select ‘File’ and then ‘Print’.
+Or use the Ctrl + P keyboard shortcut. Press and hold the Ctrl key and then press the P key.
++
+3.
+To preview each page, select the forward and backward arrows at the bottom of the page.
+4. Change the settings as required.
+5. Click on the Print button.
+Match the keyboard shortcut to the action:
++
+Save the worksheet
++
+Print the worksheet
+Let’s learn to use functions in MS Excel like add and average to make calculations
+When we have to add a few simple numbers, we can do it easily in our minds or on paper.
+87 +11
+98
+45 +29
+74
+128 +63
+109 +18
+191
+127
+When we want to add more numbers, we can use a calculator.
+Now, what if we have to add two hundred, three hundred or thousand numbers?
+MS Excel can be used to add thousands of numbers! In fact, MS Excel can be used to carry out all kinds of mathematical calculations, which are even more complicated
+191
+than addition. MS Excel can even be used to analyse data and prepare charts. So learning the basics of MS Excel is extremely important and necessary!
+Finding the name of a cell Each cell is given a unique name. Knowing the name of the cell helps us to easily find the data in it, and use it in calculations.
+Let’s see how ‘cells’ are named In the previous lesson, we learnt that at the top of the worksheet there are letters, A, B, C, D…. and on the left, there are numbers, 1, 2, 3, 4….going downwards. The name of each cell has a letter and a number. It is the letter name of the column and the number name of the row. Let’s look at this picture. The selected cell is found in the B column and row 5. So the name of the cell is B5.
+Similarly, in the next example, the selected cell is in the E column and row 7. So the name of the cell is E7.
+Addition with data entered in worksheet
+For this section, we first need to locate the ‘Auto-sum’ tab.
+Look for this sign at the top right.
+For addition
+1. Enter all the data that you need to add. For example, let’s add the
+price of all these items in a restaurant.
+2. Select an empty cell directly below a column of data.
+3. Go to the ‘Formulas’ tab found in the menu on top of the
+MS Excel screen.
+4. Click on ‘Auto-sum’ and then ‘Sum’.
+192
+5. Excel will automatically sense the cells to be added. You can check the names of the cell you want to
+add. =SUM(B1:B6) adds the values of the cells starting from B1 to B6.
+6. Press the ‘Enter’ key to see the answer.
+In this example, the numbers used for addition are entered in a column (top to bottom), cell numbers B1 to B6.
+Addition can also be done with the same method if the numbers are entered in a row (left to right).
+In this example, the numbers used for addition are entered in a row, cell numbers A2 to F2.
+Find average with data entered in worksheet
+1. Now, let’s find the average price of all the items in this restaurant.
+2. Select an empty cell directly below a column of data.
+3. Click on ‘Auto-sum’ and then ‘Average’.
+4. Excel will automatically sense the cells to be used. You can check the names of the cell you want to add.
+193
+=AVERAGE(B1:B6) finds the average of the values of the cells starting from B1 to B6.
+5. Press the ‘Enter’ key to see the answer.
+Choose the correct answer for the questions:
+Activity Time!
+Q1. What happens when we use this function?
+=SUM(B4:G4) a. The numbers in cells from B4 to G4 are added b. The number in B4 is deleted
+Q2. What must we do to add numbers in Excel?
+a. Use a calculator b. Use ‘Auto-sum’
+What I learnt today:
+Put a if you know this topic well.
+1. Saving an MS Excel file: Click on the Save icon at the top left of the screen. Or press Ctrl + S keys on your keyboard at the same time.
+2. Printing an MS Excel file.
+3. Names of cell in Excel.
+4. Using Auto-sum to add data (numbers).
+5. Using Auto-sum to find the average of data
+(numbers) entered.
+194
+6.10 Introduction to the Internet
+In this lesson you will learn:
+1. About the internet and its benefits.
+2. Steps to successfully access the internet.
+Do you use the internet? What do you use it for?
+Thinking Box
+Let’s learn about the internet and its benefits
+The internet is a very large network, across the whole world. It is called ‘net’ in short. It is a way of connecting us with information from all over the world.
+We can connect all our digital devices like computers, phones, tabs and laptops to the internet. With the help of the internet, we can send messages, pictures, videos, files, etc. to each other, even if we are far away.
+What are the benefits of the internet?
+Without the internet, people used to send messages through letters. These letters would take many weeks to reach. If we wanted any information, we would have to go to a library, or to an institute to get it. We had to go to the station and stand in a long queue to book tickets.
+Nowadays, with the help of the internet, life has become so much easier!
+1. We can send and receive letters or messages instantly.
+2. We can get any information quickly.
+3. We can get news immediately.
+4. We can store all our information safely.
+5. We can watch movies at any convenient time.
+6. We can watch any sport from around the world.
+7. We can make video calls.
+8. We can attend classes online.
+9. We can book train or bus tickets.
+10. We can gain access to music from all over the world.
+195
+Q1. Please add what else you can do with the help of the internet.
+Q2. Use any device with an internet connection. Complete these tasks. Place
+a tick in the box once you complete the task.
+Send a photo to a friend
+Find information on the birthday of the internet (use Google Search)
+Watch a video of a song from another country
+Find the phone number for blood bank information in India (use Google Search)
+Let’s learn how to access the internet
+There are 2 ways to connect your device to the internet:
+1. Using a mobile data connection
+2. Using a WiFi connection
+Using a mobile data connection
+A mobile data connection can be used to access the Internet on devices like your smartphone or tablet.
+Find the symbol with two arrows on your phone . Selecting it will turn on the mobile data. You can then use the internet on the device.
+Using a Wi-Fi connection
+This is the WiFi symbol.
+1. Click on the WiFi symbol found at the bottom right of your computer.
+2. Select the name of the WiFi connection. Click
+on ‘Connect’.
+3.
+If you are using the WiFi connection at an office, you can ask a colleague or the person in charge to share the WiFi details with you.
+4. Enter the WiFi password.
+Could you please share the WiFi details with me? I’d like to connect to the internet.
+Do not connect your device to any WiFi connection that you are not familiar with or that doesn’t need a password. It might not be safe.
+196
+Choose the correct answer for the questions:
+Activity Time!
+Q1. How can you watch YouTube videos on your phone?
+a. Connect to the internet with mobile data b. Use the camera
+Q2. What is this symbol?
+a. Audio b. WiFi connection
+What I learnt today:
+Put a if you know this topic well.
+1. The internet is a very large network which helps us
+communicate, send and receive information instantly. We can connect all our digital devices to the internet to make use of its benefits.
+2. Speed of communication, safety and access to
+information are the top benefits of using the internet.
+3. There are two ways to connect to internet: Mobile data
+and WiFi.
+4. Connect only to safe WiFi connections to protect your
+phone or computer.
+197
+6.11 Using Search Engines
+In this lesson you will learn:
+1. What are search engines?
+2. About Google and a few other search engines.
+3. How to use keywords to use search engines effectively.
+Have you searched for anything online? If yes, what were the last 3 things you searched for online?
+Thinking Box
+Let’s learn about search engines
+Imagine walking into a very big library. The library has thousands of books. There are books on every topic - physics, geography, history, science, art, etc. There are popular books, and some unknown books too.
+Now, if you want to find some information about the history of Greece. What will you do?
+That’s right! You will ask someone in charge over there, like the librarian. The librarian knows where the different books are kept. If there was no librarian to help, it could take years to find the one book that you are looking for!
+Nowadays, we don’t need to go to a big library like this in order to get information. We can get all the information online. All we have to do is type a few words and we get the information!
+Let’s understand how this works All the information is stored on ‘web pages’. These web pages are linked and are stored on the World Wide Web (www). We need an internet connection and a search engine to access the information on the web.
+A search engine is like the librarian of the internet! You have to type out what information you are looking for, and the search engine will look everywhere, and show you all the web pages that contain the words that you typed or the information that you needed.
+198
+Q1. What are 2 countries in the world that you would like to learn more about?
+1.
+2.
+Q2. Who are 2 famous people that you would like to find out more about?
+1.
+2.
+You can use a search engine to find information about these things!
+Let’s learn about some popular search engines
+There are many search engines you can use to find pages on the internet. The most used search engine in the world is Google.
+You can tell the search engine, Google, what you are looking for by typing the words in the search bar.
+After typing the words, you must press or click on ‘Google Search’ on your screen or the ‘Enter’ key on the keyboard.
+For example, if you want to find the capital city of France, you can type ‘capital of France’ in the search bar. Then, press ‘Google Search’ or the ‘Enter’ key. Google will search the internet and provide you with the right answer.
+A few other popular search engines that you can use to find information on the internet are:
+
+Bing
+199
+
+Yahoo
+DuckDuckGo
+Find the answer to these questions using the Google search engine.
+Go to www.google.com on a computer or a phone.
+1. What is the capital of New Zealand?
+2. Who is the Prime Minister of Canada?
+Let’s learn how to effectively use keywords in search engines
+It is very important to use the correct words to tell the search engine what to look for. These are called ‘keywords’.
+For example, we want to make butter paneer, and we want a typical Indian-style recipe.
+If we type the word ‘recipe’, do you think you will get the recipe?
+No! Google will show us all the web pages that contain recipes. It will also have the recipe for butter paneer, but we will have to go through all the pages to find one recipe!
+200
+So let’s refine our search, and type ‘paneer recipe’.
+Now, Google will show us web pages with all kinds of paneer recipes like kadhai paneer, paneer handi, paneer mutter, palak paneer, etc.
+This search will also have the recipe for butter paneer, but we will have to go through all the paneer recipes to find out how to make butter paneer!
+Let’s type ‘Indian recipe butter paneer’. Now, do you think we’ll get the correct recipe?
+Yes! Google will show us the pages with the recipe that we are looking for.
+So we need to be very clear when we are looking for information. We need to type a few keywords that will help refine our search and help us get the correct information easily.
+Choose the correct keywords to search for this information:
+Activity Time!
+Q1. Birthday of the Prime Minister of India
+a. Prime Minister of India birthday b. Current Prime Minister of India birthday c. Prime Minister of India
+Q2. Address of Hyundai factory in your town
+a. Hyundai address b. Hyundai factory address c. Hyundai factory address, name of your town
+201
+What I learnt today:
+Put a if you know this topic well.
+1. A search engine helps you find data stored in the
+World Wide Web (www).
+2. The search bar helps you find what you need when you
+type keywords.
+3. Bing, Yahoo, DuckDuckGo are a few search engines.
+4. The most used search engine in the world is Google.
+6.12 Searching for the Right
+Information Online
+In this lesson you will learn:
+1. How to search the internet for important information.
+2. How to access information on important government portals.
+What are some tips you have to search for information online?
+Thinking Box
+Let’s learn how to search the internet for important information
+The internet is not just for fun and entertainment. It is a powerful tool that you can use to find important information. The right words can help us find the information we need! Remember, Google is like a librarian. You must use specific words in the search bar so that Google can find the correct information.
+When the government has an economic welfare scheme, they share information about it on the internet. Companies and organisations from all over the world share information about job openings on the web pages. With the right search words, you can find correct and useful information. Make sure to include location-specific words and people-specific words while searching on Google.
+202
+Too vague
+With specific words
+Welfare scheme
+Welfare schemes in Rajasthan
+Government scholarship
+Indian government scholarship for women
+Jobs
+Receptionist jobs in Ahmedabad
+You want to find companies that are hiring for your dream job in your city. What words will you use to search on the internet?
+Let’s learn to access information on important government portals
+There are specific websites maintained by the government. These websites have the most updated and relevant information about government schemes and initiatives. If the website ends with .gov.in, it means that it is an Indian government website. There are many websites like this.
+Here are some important websites, through which you can find lots of information:
+1. www.india.gov.in : National Portal of India
+This website is like a search engine for all government websites. When you are looking for something, it searches all the government websites and shows you the correct page with the information. Links for PAN application, driver’s license status and birth certificate download can also be found on this website.
+2. www.igod.gov.in : Integrated Government Online Directory
+This website can be used to find information on schemes and initiatives across all sectors, from tourism to employment to agriculture. You can use this website to find information on schemes like MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act), Rashtriya Krishi Vikas Yojna, etc.
+3. https://myaadhaar.uidai.gov.in/ :
+MyAadhaar Portal Aadhaar is a 12-digit identification number issued by the Government of India to residents for free of cost. It is an important document for everyone to have. It can be used as a universal ID card. It is required for important services like, opening a bank account and getting a voter’s ID. At the time of employment, all companies require your Aadhar card. The My Aadhaar portal has all the required information for getting and handling your own Aadhaar.
+203
+4. www.irctc.co.in : IRCTC
+IRCTC (Indian Railway Catering and Tourism Corporation) handles the ticketing process for the Indian Railways. To book tickets on any Indian train, you need to use the IRCTC website.
+You will need to set up a login ID and a unique password for your IRCTC account. With your details, you can check train details, book tickets and check the status of your bookings.
+Swayam Course Catalog
+5. www.swayam.gov.in : SWAYAM e-learning SWAYAM is a programme by the Government of India through which learning resources are available for students covering all subjects. You can learn something new on this site. You can also do some courses for upskilling, that is, learning more or upgrading in your field. We will be discussing this in the next few lessons.
+Choose the correct answer for the questions:
+Activity Time!
+Q1. Which of these is a Government of India website?
+a. www.education.gov.in b. www.facebook.com
+Q2. What is the meaning of ‘reliable’ information?
+a. Information that is false b. Information that is correct and updated
+What I learnt today:
+Put a if you know this topic well.
+1. Using specific words to search on the internet can
+help us find important information about jobs, welfare schemes and scholarships.
+2. There are government websites and portals specifically designed to help us find information and do important tasks like book tickets and apply for documents.
+204
+6.13 Social Media
+In this lesson you will learn:
+1. What is social media?
+2. About social media profiles on WhatsApp, Telegram, Twitter, Facebook, LinkedIn, etc.
+3. About the safety measures on social media.
+Which of these social media sites do you use? Put a tick next to it.
+Thinking Box
+WhatsApp
+Instagram
+Telegram
+Twitter
+Facebook
+LinkedIn
+Let’s learn about social media
+Social media is any application or app on the internet where we can share our thoughts with other people, virtually. It connects people from all over the world. We can share text messages, pictures, videos and links. Social media can be used by anyone having a mobile or a computer with an internet connection.
+Different social media platforms have different uses. Some social media apps are used to speak directly to friends. Some are used to talk to strangers from different parts of the world. Some apps are used to share photos, videos, write personal stories, etc. Some apps are used especially for finding jobs.
+Label the icons with the correct social media app names:
+Telegram Twitter
+Instagram LinkedIn
+Facebook WhatsApp
+205
+Let’s learn about social media profiles on WhatsApp, Telegram, Twitter, Facebook, LinkedIn and more
+A profile is a page that contains information about you. On social media apps, you can create your own profiles. On WhatsApp, you can create your profile by adding your photo, your name and 2 or 3 lines about you.
+For example:
+Profile picture: (An avatar picture can be added) Name: Rajeswari About: Student at ITI
+Read this conversation between three friends, Sunita, Dinesh and Deepika.
+Sunita: Hello Deepika! Did you have a good time at the cricket match yesterday?
+Dinesh: How did you know that Deepika went to watch the cricket match?
+Deepika: I posted some pictures and videos on Instagram from the match.
+Dinesh: What is Instagram?
+Sunita: Instagram is a social media app where you can post pictures and videos. You can also watch other people’s videos.
+Deepika: Yes! I create a profile with my picture and write a few lines about myself. Then I can ‘Follow’ my friends and they can ‘Follow’ me.
+Sunita: Deepika has many followers. But did you know that Virat Kohli has almost 200 million followers on Instagram?
+Dinesh: Wow! That’s a lot of people. Is this the app where people post Reels?
+Sunita: Yes, it is! Reels are short entertaining videos that people post on Instagram.
+Dinesh: You know, Virat Kohli is also very popular on Twitter. His Tweets get a lot of likes.
+Deepika: Tweets? What’s a Tweet?
+Dinesh: You share pictures and videos on Instagram right? Twitter is a social media app where people can share short text posts with their followers.
+Sunita: I’ve read some of your Tweets, Dinesh! They’re very funny.
+Dinesh: Thanks Sunita! Yeah, some people share jokes. Others share information and news. It’s even used by some government officials and celebrities nowadays to interact directly with people.
+Sunita: People can like and share other people’s Tweets too.
+Deepika: Just like how we can like, share and react to people’s posts on Facebook!
+Dinesh: Yes, exactly like that. Of course, Facebook is one of the biggest and more popular social media apps in the world. Did you know that roughly 37% of all the people on earth use Facebook today?
+Sunita: Woah! I use Facebook to connect with my schools friends from around the world. I can see their online activity and catch up with their lives.
+Dinesh: I also use Facebook Messenger to chat with my friends.
+206
+Sunita: I mostly use the WhatsApp app for sending messages. It’s so easy to use.
+Deepika: Yes, we can send text messages, images and files to anybody who has WhatsApp.
+Sunita: It’s also convenient to use WhatsApp for calls, video calls and group calls. My family uses WhatsApp to do group calls, and talk to each other often.
+Dinesh: Do you both use Telegram too?
+Sunita: No, I don’t.
+Deepika: What is Telegram?
+Dinesh: Telegram is also a messaging app, like WhatsApp. You can send messages with text, photos, videos, etc. to people who have Telegram. You can also join groups where people share information on various topics.
+Deepika: That’s very helpful!
+Dinesh: Yes, it is.
+Sunita: The social media app that I use to get a lot of information is LinkedIn.
+Deepika: Yes, of course. LinkedIn is an app where the focus is on professional, workplace-related interactions. So it’s useful for learning about job opportunities and learning work skills. Dinesh, do you have a LinkedIn profile?
+Dinesh: No, I don’t. Should I get one?
+Sunita: Yes, it will be useful for you. Your LinkedIn profile can show your education qualification, your skills and your work experience.
+Deepika: Nowadays, many workplaces check our LinkedIn profile while considering us for a job.
+Dinesh: So LinkedIn sounds important! I’ll set my profile up today.
+What is your favourite social media app to use? Why?
+Let’s learn safety measures on social media
+While crossing the road or while leaving our house, we do things to be safe. Just like that, there are some things we must do to be safe while using social media.
+Staying safe on social media is important, because many people misuse the platforms to cheat, harass and conduct human trafficking.
+Here are some safety tips:
+1. Do not share information with people that you do not know.
+2. Do not meet up with or share your location with strangers on social media.
+3. Do not share important personal information like address, bank account number and passwords on social media.
+4. Do not open any links or files shared by people you do not know.
+5. Do not send rude or mean comments to anyone on social media.
+6. Do not share fake news.
+Most importantly, do not be active on social media continuously. It can be an addiction, like alcohol or cigarettes. Many people stay on social media to get likes or comments. But this can be harmful because they lose touch with reality and their own family.
+207
+Choose the correct answer for the questions:
+Activity Time!
+Q1. What social media app is used for finding
+job opportunities? a. LinkedIn b. Google
+Q2. What can you do to be safe on social media?
+a. Avoid sharing my password with anyone b. Send my address to a stranger on Facebook
+What I learnt today:
+Put a if you know this topic well.
+1. Social media is any application or app on the internet where we can share our thoughts with other people, virtually.
+2. Social media can be used by anyone having a mobile or
+a computer with an internet connection.
+3. There are different types of social media apps for
+different uses.
+4. Staying safe on social media is important, because
+many people misuse the platforms to cheat, harass and conduct human trafficking.
+208
+6.14 Social Media for
+Professional Development
+In this lesson you will learn:
+1. How to use social media for professional growth.
+2. Responsible usage of internet/social media.
+3. About success stories and role models.
+What do you think social media means? Give a few examples.
+Thinking Box
+Let’s learn to use social media and the internet for professional growth
+Social media platforms are a way for us to share our thoughts and feelings with our family. It is also a great way for us to find entertainment, to see pictures, to watch videos and to read texts that we can enjoy.
+Social media platforms can also be useful for us to grow professionally. It’s important to connect with other people so that we can learn from them about their work experiences. Interacting with people who have the same interests is very important. Social media is a great platform to do that.
+Here are a few things which you can do on social media and the internet for professional growth:
+1. Showcase some of your work and your professional skills online.
+
+Platforms to use: LinkedIn, YouTube, Facebook, Instagram.
+2.
+Join groups according to your career or subject interests.
+Groups are places where different people come together to
+
+talk about their common interests and goals. Joining a group helps you learn from different people who are on the same path as you. You can ask questions and clarify doubts in these groups. Platforms to use: LinkedIn, Facebook, WhatsApp.
+3. Stay updated by finding information online.
+
+There are always new ideas and opportunities coming up in your area of interest. So it is important to stay updated. Use search engines and social media platforms to regularly find the latest information.
+
+Platforms to use: LinkedIn, Facebook, Twitter, Google.
+209
+Q1. What is your dream job? Find 2 new things about your dream job using
+the internet or social media.
+1.
+2.
+Q2. Write the names of 2 people whom you can connect with and learn more about your dream job? This can be anybody that you know, like a teacher, a friend, a family member, an old classmate, etc.
+1.
+2.
+Let’s learn responsible usage of the internet/social media There is a lot of information available on the internet and on social media. With millions of people sharing millions of pages of content on the internet, it’s important to know what information must be taken seriously and what information can be shared with others.
+Before you share or trust any information on the internet or social media, ask these 5 THINK questions:
+T
+Is it True? Is the information given in the post true? Can you confirm that the facts are true?
+H I
+Is it Helpful? Is the information helpful to you and to other people on social media?
+Is it Inspiring? Does the information inspire you to learn and try new things that would challenge you?
+N
+Is it Necessary? Does the post contain any information or advice that is necessary for you and others in your social network?
+K
+Is it Kind? Is the post kind and considerate to everyone? Or is it mean and hurtful to particular people?
+Nikhil has been spending time on social media learning about fashion design. Look at the scenarios and choose what Nikhil must do to be responsible.
+1. “I found a group of people who are working in the
+fashion industry.” a. “I can join the Facebook group. I can read about their experiences and share mine.” b. “I can join the Facebook group and share my phone number with everyone.”
+2. “Someone posted false information about a job
+opportunity on the group.” a. “I must re-share the information on LinkedIn.”
+b. “I must ignore this post.”
+210
+Let’s learn success stories of people using social media
+When used responsibly and safely, social media can be a powerful tool. Let’s look at a few stories where people used social media and the internet in an impactful and successful way.
+
+Project GOAL by Digital Empowerment Foundation (DEF) Digital Empowerment Foundation (DEF) is an organisation that uses digital technology to help people in rural India. For their project, GOAL, they brought together a group of successful women entrepreneurs. Each entrepreneur worked as a mentor and guide for a group of tribal women, and they were all connected to each other through Facebook. The tribal women received training, mentorship and advice through the social media channel.
+
+Ice Bucket Challenge The Ice Bucket Challenge was a fun activity that many people did in 2014. Funny videos of iced water being poured on people were created and shared on Facebook. The videos were created and shared for a purpose.
+The videos encouraged thousands of people to donate money for the research to cure a disease called ALS. Because of social media, people from all over the world saw the video and donated money. Through the Ice Bucket Challenge, 22 crore dollars were raised for a good cause.
+Everyone can learn from everyone! You have knowledge and skills that other people can learn from you. You have stories and ideas that can inspire someone else.
+Activity Time!
+Can you think of a time when you did something very well or won something? Maybe you were appreciated by someone or you completed a task successfully? Write a story here about it and share it on social media.
+What I learnt today:
+Put a if you know this topic well.
+1. Social media platforms are a way for us to share our
+thoughts and feelings with our family.
+2. Social media can be used for our professional growth to showcase our professional skills, join groups according to career, stay updated with the information available online, etc.
+3. Before sharing information on social media THINK. Is it
+TRUE, HELPFUL, INSPIRING, NECESSARY, KIND?
+211
+6.15 Internet Safety
+In this lesson you will learn:
+1. The basics of internet safety.
+2. The importance of SafeSearch.
+3.
+Introduction to cyber crime.
+Mention 3 ways in which we can be safe on the internet:
+1.
+Thinking Box
+2.
+3.
+Let’s learn the basics of internet safety
+To be safe on the internet, we can follow these SMART tips:
+S: Stay Safe
+Don’t give personal information to people you do not know. Do not share important details like address, ID number, bank details, etc. on social media. Do not share your passwords with anyone.
+M: Don’t Meet Up
+You might interact with strangers on a social media app. After some time, you might want to meet them or share your contact details with them because they are your friend. Online friends are still strangers and may not be who they say they are.
+Do not meet with an online friend in person, even if you think that you know the person well.
+A: Accepting Files
+Do not accept any files or pictures from people you do not know. Avoid clicking on links that promise money, cryptocurrency coins, etc. These links can cause virus problems in your computer or phone and can be used to steal information from you.
+R: Reliable
+Always check information before you believe it. You must check internet articles and WhatsApp-forwarded messages.
+Check:
+Is the information true? Can the person sharing it or the website be trusted to deliver the correct information? Are there other sources on the internet which can confirm what you’re reading?
+212
+T: Tell Someone
+If someone or something is making you uncomfortable or scared, you must tell someone. Talk to a teacher or an adult in the family who can help you. If a person on social media seems dangerous or makes you feel uncomfortable, stop interacting with them immediately. You can block them from interacting with you on the platform.
+Fill in the missing words. What must you do to be safe on the internet?
+
+S: Stay by not sharing personal information on the internet.
+M: Don’t up with online connections.
+A: Don’t files from strangers.
+R: Is the information ?
+
+T: someone if you are uncomfortable.
+Let’s learn about Safe Search
+Search engines like Google help us find interesting and helpful pages on the internet. But there are some pages on the internet that are dangerous and inappropriate to use.
+SafeSearch is a tool that blocks unsafe pages when you are using a search engine. The tool can be switched on and off for any search engine by changing the settings.
+Why is it important to be safe while searching for information on the internet? Explain.
+Let’s learn about cyber crimes
+There are laws set by the government that we must all follow. When someone breaks a law, it is considered to be a crime. Stealing money, attacking a person or making fake documents are crimes because they break the laws of the government. When a crime is committed, someone complains to the police department. The police find the person who commited the crime. The criminal is punished for their actions. They will be asked to pay a fine or sent to prison.
+213
+There are also laws for activities on the internet. They are called cyber laws. When a cyber law is broken, it is called a cyber crime.
+Examples of cyber crimes:
+1. Stealing and using other people’s personal
+information.
+2. Stealing card payment and financial details.
+3. Bullying and threatening people online.
+4. Sending viruses to other people’s computers.
+5. Selling and distributing illegal items and
+media online.
+If someone steals your online information or makes you feel unsafe on an online platform, you can report the incident as a cyber crime. You can use the National Cyber Crime Reporting Portal.
+1. Log into www.cybercrime.gov.in to file a
+complaint online.
+2. Call the cybercrime complaint number at
+155260.
+Shilpa finds suspicious activity in her bank account. Large amounts of money have been spent in an online shop that she did not use. Someone has stolen Shilpa’s bank details online.
+Activity Time!
+What must Shilpa do? Write down the steps that she must take.
+214
+What I learnt today:
+Put a if you know this topic well.
+1. SMART way to be safe on the internet - Stay Safe, Don’t meet up, Don’t accept files or links from unknown people, check for Reliability and Tell someone if you are uncomfortable.
+2. SafeSearch is a tool that blocks unsafe pages when you
+are using a search engine
+3. When a cyber law is broken, it is called a cyber crime.
+To report a cyber crime call 155260 or email www.cybercrime.gov.in
+6.16 Communication Using
+Email
+In this lesson you will learn:
+1. The definition and features of email.
+2. The steps to create and use an email account.
+3. How to attach files and use CC and BCC when sending emails.
+What are the most common uses of email?
+Thinking Box
+Let’s learn the features of email
+An email is a message sent to a person through the internet. Email stands for electronic mail. It is similar to a letter or a package that is physically sent to someone. Email can be used to send letters, messages, files, pictures, links, etc.
+You need a unique personal email ID to send and receive emails.
+An email ID will usually be in this format:
+1. uniqueID@gmail.com or uniqueID@outlook.com For example, johndoe@gmail.com
+2. You will have an inbox where you can check the emails that you received. An inbox is the digital space
+where all the emails that are sent to you can be found and viewed.
+3. When you get an email from someone, you can reply to the email.
+215
+I got an email from my team leader asking me to attend a meeting on Tuesday.
+I replied to her email and informed her that I’m on leave on Tuesday.
+Which of the following tasks do you know how to do?
+Send an email Check your email inbox Share your email ID with a friend Reply to an email
+Let’s learn the steps to create and use an email account.
+Creating an email account:
+The most commonly used email ID is Google Mail or Gmail. Let’s look at the steps to create a Gmail ID.
+1. Go to the Gmail account creation page - accounts.google.com
+2. Click on ‘Create account’. Choose ‘Create an account for myself’ to create your personal account.
+3. The sign-up form will appear. Enter your details.
+4. Choose a unique username for your account. The username must be easy to remember. For a
+professional email ID, it’s best to have your full name as the username.
+5. After choosing a username, enter a password. Type the password again to confirm. Click on ‘Next’ to
+continue.
+6. Enter details of your mobile number, date of birth and gender
+and click ‘Next’.
+7. Finally, you will see the ‘Terms & Conditions’. Click on ‘I agree’ to create your Gmail account.
+216
+Sending an email from your computer:
+1. On your computer, go to www.gmail.com
+2. At the top left, click on ‘Compose.’
+3.
+In the ‘To’ box, add the email ID of the person you want to send the email to.
+4. Add a subject for the email. The subject is a few words that can quickly tell the person receiving the
+email what the email is about.
+5. Write your message.
+Q1. What is your email ID? Create a new ID if
+you don’t have one already.
+Q2. Send an email to your classmate, telling them about something interesting that you learnt this week.
+Let’s learn to attach files and use CC and BCC when sending emails
+Attaching files to an email:
+You can type a message and send it in an email. You can also add or attach a file from your computer to the email and send it to someone else.
+1. On your computer, go to www.gmail.com
+2. Click on ‘Compose.”
+3. At the bottom, click . It is a paper clip icon that helps to
+attach files.
+217
+Attaching files to an email:
+You can type a message and send it in an email. You can also add or attach a file from your computer to the email and send it to someone else.
+1. On your computer, go to www.gmail.com
+2. Click on ‘Compose.”
+3. At the bottom, click . It is a paper clip icon
+that helps to attach files.
+4. Choose the files you want to upload.
+5. Click ‘Open.’
+6. Complete the email with the subject and the
+message.
+Using CC and BCC options while sending an email:
+When you enter an email ID in the ‘To’ box, the email goes to their inbox. When you enter more than one email ID in the ‘To’ box, the email goes to all the email IDs.
+You will find 2 other options, CC and BCC. In Gmail, CC means Carbon Copy, and BCC means Blind Carbon Copy.
+CC is used when you send an email to more than one person at the same time. You would commonly use this if your email is written for one person, but you also want another person to see it. For example, if you’re emailing your teacher, but you also want your project partners to see the email.
+BCC is used to send a copy of an email to another person without the original receiver of the email knowing. You can also use BCC to send an email to many people without each person knowing the email details of the others.
+Choose the correct answer for the questions:
+Activity Time!
+Q1. How can a file be sent in an email?
+a. Attach the file to the email b. Write a thank you message in the email
+Q2. What does CC stand for?
+a. Blind Carbon Copy b. Carbon Copy
+218
+What I learnt today:
+Put a if you know this topic well.
+1. An email is a message sent to a person through
+the internet.
+2. Features of email include email ID, checking mails in
+inbox and sending emails, etc.
+3. Creating an email account and sending an email.
+4. Attaching files to an email by clicking the paper clip icon.
+5. CC means Carbon Copy and BCC means Blind Carbon Copy, and how to use them while sending emails.
+6.17 Introduction to Mobile
+Applications
+In this lesson you will learn:
+1. About the benefits of mobile applications.
+2. Ways in which mobile phones can be used in learning.
+Open the mobile phone which you use regularly. What mobile apps do you use the most on that phone? List the top 5 apps.
+Thinking Box
+1.
+2.
+3.
+4.
+5.
+219
+Let’s learn about mobile applications
+A mobile application or app is a software that is made to be used on a mobile device like a smartphone or a tablet. There are many mobile apps available for us to use for different tasks and activities.
+Mobile devices are easy to use and common to find. Mobile apps are the most convenient way to do something online. You don’t need access to a computer to do tasks like sending an email or creating a LinkedIn profile. You can do them on a phone through mobile apps.
+List 5 things that you can do using a mobile app on a smartphone.
+1.
+2.
+3.
+4.
+5.
+Let’s learn how mobile phones can be used in learning Here are 4 ways you can use a mobile phone to help you learn and grow as a student:
+1. Watch interesting and educational videos.
+The internet is a great place to learn new skills and discover new ideas. The most exciting way to learn is through videos that are made by experts. You can use YouTube to find videos about a topic of your interest. This way you can use YouTube for both entertainment and learning.
+2. Use a dictionary app
+As a student, you will come across many things that are new to you and that you don’t understand. Do not be worried or discouraged by them. With a mobile phone, you have the tools to understand new things. Use a dictionary app to find the meanings of words that you do not know.
+3. Use Google Search regularly
+Use Google Search to look up topics that are unfamiliar and learn more about them.
+4. Be part of educational groups on
+social media Social media apps like LinkedIn and Facebook have groups where people with common skills and industry experts share their thoughts. These groups can help you learn new information and read ideas that help you grow as a student. Remember to practice internet safety while participating in these groups.
+220
+What is a topic that you wish to learn more about?
+Activity Time!
+Find a video of an interesting topic on YouTube. Write 2 new things that you learned from the video.
+1.
+2.
+What I learnt today:
+Put a if you know this topic well.
+1. A mobile app is a software that is used on a mobile
+device like a smartphone or a tablet.
+2. You can use a mobile app to help learn in many ways
+For ex: Using YouTube to watch educational videos, using the Dictionary app to find the meanings of words, using Google Search to know about new topics and being part of educational groups on social media.
+3.
+It is important to practice internet safety while using mobile apps.
+221
+6.18 Internet of Things (IoT)
+In this lesson you will learn:
+1. About the various digital devices that we use in our everyday lives.
+2. About using Siri and Alexa.
+Which of the following things have you heard of or seen before?
+Smart phone
+Smart light bulb
+Thinking Box
+Smart cities
+Smart home
+Smart watch
+Smart TV
+Let’s learn about the various digital devices that we use in our everyday lives
+The most common smart digital device that we use is the smartphone. A smartphone is a phone which can be connected to the internet. A smartphone is used to do many more activities than a normal phone.
+Like smartphones, there are many other devices that are now used in the ‘smart’ version.
+Smart TV
+A traditional cable TV plays TV programmes through a cable connection. It cannot be connected to the internet. A smart TV connects to the internet and can play videos from different online platforms.
+Smart Watch
+A traditional watch shows the time and the date through a system of wheels and gears found inside the watch.
+A smart watch is a watch that also connects to the internet. A smart watch can also be used to make phone calls, read messages and track body conditions, like temperature and heartbeat, etc.
+222
+Write 3 reasons why a smart watch is more useful than a normal watch.
+1.
+2.
+3.
+Let’s learn about using Siri and Alexa Alexa is the name of a popular digital assistant. A digital assistant is a software that can help you. You can instruct a digital assistant to do certain tasks for you instead of doing it yourself. Alexa is a voice-controlled digital assistant. You can give spoken instructions to Alexa for tasks to be completed.
+To call your friend from your smartphone, you must open the Contacts app on the phone, find the name and then call them. With a digital assistant like Alexa, you can give it an instruction like “Call Ahmed’s mobile number.” The assistant will do the task for you instead of you following the steps to do it.
+To use Alexa, you must use a smart device that is enabled with Alexa. How can you find out if the smart device has Alexa? Look for this symbol.
+If this symbol is seen on a device, then you can use Alexa on it. Here is a list of things that Alexa can do.
+Play music
+Report the news
+Check the weather
+Offer sports updates
+Control your smart home
+Manage your calendars
+Call phones
+Set timers and alarms
+Find local business information
+Answer questions
+223
+Do math
+Tell stories
+Tell jokes
+Order food
+Find recipes
+Like Alexa, there are other voice-controlled digital assistants available on some digital devices.
+Siri
+Google Assistant
+Alexa is a voice-controlled assistant. You must give Alexa spoken instructions to make her complete tasks. What would you say to Alexa to ask her to do these tasks? A few examples have been provided for you.
+Activity Time!
+S. No.
+Task to be completed by Alexa
+What you will say to Alexa
+1.
+Play Bollywood music
+“Hey Alexa! Play some Bollywood songs.”
+2.
+Schedule a meeting in the calendar
+“Hey Alexa! Set a meeting at 6pm on May 2nd.”
+3.
+Set a 7am alarm
+“Hey Alexa!
+”
+4.
+Find a recipe for chocolate cake
+“Hey Alexa!
+”
+224
+What I learnt today:
+Put a if you know this topic well.
+1. Various digital devices that we use nowadays, like
+smartphones, smart watches, smart TV.
+2. Digital assistants for smart devices like Alexa, Siri and
+Digital Assistant can help us with various tasks.
+3. Smart devices can make work easy for us and help us
+use less steps to complete a task.
+6.19 Using Online Meeting Tools for Interviews
+In this lesson you will learn:
+1. How to use online meeting tools.
+2. How to use Zoom.
+3. How to use Google Meet.
+How can you do online video meetings? List down the different ways.
+Thinking Box
+Let’s learn about online meeting tools
+A meeting usually happens when people come together in a room and meet to discuss ideas and complete tasks together as a group.
+Nowadays, interviews also happen online. An online interview happens through various video and audio platforms. We use special digital meeting apps to conduct such interviews. While using the most popular online meeting tools that are available, you will be able to do the following things:
+1. You can share a link or an ID for your meeting for people to
+join the meeting.
+225
+2. Everyone who is a part of the meeting can speak to each other and hear each other.
+3. Everyone who is a part of the meeting can see each other and turn on the camera on their own
+devices.
+4. After the meeting, the online meeting can be closed and ended.
+Choose the correct answers to the questions:
+Q1. What kind of meeting is this?
+a. Online meeting b. Office room meeting
+Q2. What do people need to join an online meeting?
+a. A certification b. The meeting ID or meeting link
+Let’s learn to use Zoom
+Zoom is one of the most popular online meeting apps in the world. With Zoom, you can start and join video meetings.
+Start and share a meeting:
+1. Open the Zoom app and log into your account.
+2. Tap the orange ‘New Meeting’ icon that appears on your screen. This will start an online meeting.
+3. Click ‘Participants’ in the meeting controls found at the bottom of the screen.
+4. Click ‘Invite’ at the bottom of the participants panel. Choose the option through which you want to
+share the meeting link with others. They can use the invitation to join the meeting.
+Join a Zoom meeting:
+1. Ask the person hosting the meeting to share the meeting link or the meeting details with you.
+2. Click on the link to join the meeting or use the ‘Join’ option.
+226
+3. Type the meeting ID to join the meeting and click ‘Join’.
+Choose the correct answers to the questions.
+Q1. Which option must you use to join a Zoom meeting?
+a.
+b.
+Q2. Which option must you use to leave a Zoom meeting?
+a.
+b.
+Let’s learn to use Google Meet
+Google Meet is another popular online meeting app. For Google Meet, you can use the same login account details as your Gmail account.
+Start and share a meeting:
+1. Go to www.meet.google.com
+2. Click on ‘New Meeting’.
+227
+3. Select the option ‘Start an instant meeting’. This creates a new meeting and starts the meeting directly.
+4. At the bottom right, click meeting details
+5. Click ‘Copy’ on the joining information.
+6. Paste the meeting details into an email, or another app. Send it to the people who have to join the meeting.
+Plan a Google Meet meeting with some of your friends. Start a Google Meet meeting and send them the invitation to join.
+Activity Time!
+What I learnt today:
+Put a if you know this topic well.
+1. Meetings that happen online through the internet are
+called online meetings.
+2. You can use Zoom or Google Meet to do online/virtual
+meetings.
+3. You can create Zoom or Google Meet links to invite
+other people to join your meeting.
+228
+6.20 Exploring Popular Sites for Learning and Career Growth
+In this lesson you will learn:
+1. About popular sites for learning and career growth.
+2. The ways to use the internet for continuous professional development.
+How can we use the internet for learning new things?
+Thinking Box
+Let’s learn about popular sites for learning and career growth
+The internet has changed the way we learn. We can access a wide range of resources and materials for any topic you might be interested in. We can become a part of different groups of people to learn skills and connect for opportunities. There are many websites on the internet that can help us with learning and career growth.
+1. Khan Academy: www.khanacademy.org
+This site has free online material on school subjects like economics, physics, algebra, etc.
+2. Coursera: www.coursera.org
+This site has a large collection of courses and certifications offered by some of the best universities from around the world.
+Other similar sites: a. edX: www.edx.org b. Udemy: www.udemy.com
+3. MIT’s OpenCourseWare: www.ocw.mit.edu
+This website has free learning and classroom materials from one of the top universities in the world.
+4. NPTEL: www.nptel.ac.in
+This is an online learning portal where the courses are created by IITs and IISc in India. It has courses on all topics taught by professors from all over India.
+229
+5. Codecademy: www.codecademy.com
+You can use this website to learn specific computer coding skills for free.
+6. Duolingo: www.duolingo.com
+You can learn a new language for free using this website. They have over 100 language courses. You can download the mobile app to a smartphone and learn a new language by spending just 15 to 20 minutes every day.
+Choose the most interesting website from all the websites recommended. Spend 5-10 minutes looking through the website and what it offers.
+Write 2 things that you’d like to learn from the website.
+1.
+2.
+Let’s learn ways to use the internet for continuous professional development To be successful in your professional life, you must always be open to learning and growing. Your opportunities to study and learn do not end inside the classroom. After you finish studying and when you get a job, you must continue to learn from the experts. The internet is the best place to be a lifelong learner.
+Here are 4 ways you can use the internet for continuous professional development:
+1. Read on a regular basis
+Find websites and blogs related to your field of interest. Read news articles and blogs on the internet regularly.
+2. Attend various courses
+Spend time once or twice every year to complete a short online course where you can learn new skills.
+3. Develop diverse interests
+Try to learn things about topics that are new and unfamiliar to you. If you like fashion design, you can also explore coding and writing skills. If you like physics, you can also learn more about art and history.
+4. Set clear, specific goals for continuous development
+Decide on specific goals for yourself so that you can make a commitment to yourself to reach your goals.
+230
+Let’s set some clear goals for your continuous professional development. Fill in this table with your goals:
+Activity Time!
+S. No.
+What I want to learn
+How long I will take to learn it
+Example: Photography
+Example: 8 weeks
+1.
+2.
+3.
+What I learnt today:
+Put a if you know this topic well.
+1. There are a lot of popular websites for learning, like
+Khan Academy, Coursera, NPTEL, etc.
+2. Even after finishing studies and getting a job, we must
+continue to learn from the experts.
+3. The 4 ways to use the internet for professional growth
+are to read on a regular basis, develop diverse interests, set clear, specific goals for continuous development.
+231
